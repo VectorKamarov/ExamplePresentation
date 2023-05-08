@@ -6,6 +6,6 @@ My project looked at the Freedom House database and mainly focused on freedom of
 
 Files for the project:
 
--`Presentation-2.html` Final product of the slide deck
--`Presentation 2.Rmd` Code script for reproducing the slides
--`freedomhouse.xlsx` Original dataset for reproduction
+-`Presentation-2.html` Final product of the slide deck  
+-`Presentation 2.Rmd` Code script for reproducing the slides  
+-`freedomhouse.xlsx` Original dataset for reproduction  
